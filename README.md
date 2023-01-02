@@ -1,5 +1,5 @@
 # awesome-vue-talks
-A collection of vue team talks
+A collection of vue talks
 
 > forked from [vue-team-talks](https://github.com/Leecason/vue-team-talks)
 
