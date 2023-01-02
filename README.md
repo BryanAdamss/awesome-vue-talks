@@ -136,3 +136,4 @@ A collection of vue talks
 
 # Others
 - [2022-12-10 使用 Vue 构建 CLI 应用 - 蔡少辉 (webfansplz) 【视频】 【中文】](https://www.bilibili.com/video/BV1i84y1t76C/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
+- [2022-12-10 大型活动中的 Vue 的静态检查实践 - 某兔 【视频】 【中文】](https://www.bilibili.com/video/BV1RM411m7os/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
