@@ -139,3 +139,4 @@ A collection of vue talks
 - [2022-12-10 大型活动中的 Vue 的静态检查实践 - 某兔 【视频】 【中文】](https://www.bilibili.com/video/BV1RM411m7os/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-12-10 Vue Macros 介绍及基本原理 - 三咲智子 【视频】 【中文】](https://www.bilibili.com/video/BV1Ee411w7Ug/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-12-10 Vue 3.0 SSR 在 Bilibili 国际版实践 - 敖天羽 【视频】 【中文】](https://www.bilibili.com/video/BV1m24y1Q7cU/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
+- [2022-12-10 Vue / Vite 中文文档翻译心得 - 唐梦予（ShenQingchuan）](https://www.bilibili.com/video/BV1Xe4y1T79W/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
