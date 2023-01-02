@@ -138,3 +138,4 @@ A collection of vue talks
 - [2022-12-10 使用 Vue 构建 CLI 应用 - 蔡少辉 (webfansplz) 【视频】 【中文】](https://www.bilibili.com/video/BV1i84y1t76C/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-12-10 大型活动中的 Vue 的静态检查实践 - 某兔 【视频】 【中文】](https://www.bilibili.com/video/BV1RM411m7os/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-12-10 Vue Macros 介绍及基本原理 - 三咲智子 【视频】 【中文】](https://www.bilibili.com/video/BV1Ee411w7Ug/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
+- [2022-12-10 Vue 3.0 SSR 在 Bilibili 国际版实践 - 敖天羽 【视频】 【中文】](https://www.bilibili.com/video/BV1m24y1Q7cU/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
