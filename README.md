@@ -9,6 +9,7 @@ A collection of vue team talks
 
 > 主要为 **Vue 生态进展与展望** 相关分享
 
+- [2022-12-10 Vue 的进化历程 【视频】【中文】](https://www.bilibili.com/video/BV1644y1m7ws/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-01-26 New Vue 3 Docs【视频】【英文】](https://www.youtube.com/watch?v=OXKefYhCVyw)
 - [2021-11-23 The New Vue【视频】【英文】](https://www.youtube.com/watch?v=2KBHvaAWJOA&list=PLRxahvbQSa_v9nKUI_UOiRPG7IOnq7b7Y)
 - [2021-10-20 One Year Into Vue 3【视频】【英文】](https://www.youtube.com/watch?v=jTxHtDAnd6E)
