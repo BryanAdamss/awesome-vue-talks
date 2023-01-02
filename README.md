@@ -44,6 +44,7 @@ A collection of vue talks
 
 > 主要为 **composition-api 与 Vite** 相关分享
 
+- [2022-12-10 VueUse 最佳实践 【视频】 【中文】](https://www.bilibili.com/video/BV1bM411U7wq/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-01-26 Introduction to Vitest【视频】【英文】](https://www.youtube.com/watch?v=CW9uTys0li0)
 - [2021-10-17 新技术和工具如何影响我们编写 Vue 代码的⽅式【视频】【英文】](https://www.youtube.com/watch?v=CyaJLrqE9tc)
 - [2021-05-22 Composable Vue, 编写可组合可复⽤的 Vue 函数的最佳实践与技巧【视频】【中文】](https://www.youtube.com/watch?v=84tk3XlS71c)
