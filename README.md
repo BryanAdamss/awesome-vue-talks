@@ -81,7 +81,7 @@ A collection of vue talks
 
 > 主要为 **Vue 工程化** 相关分享
 
-- [2022-12-10 Vue 项目配置：最佳实践与个人偏见 【视频】 【中文】]（https://www.bilibili.com/video/BV1md4y1e7vc/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0）
+- [2022-12-10 Vue 项目配置：最佳实践与个人偏见 【视频】 【中文】](https://www.bilibili.com/video/BV1md4y1e7vc/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
 - [2022-02-11 The New to Create Vue Projects【视频】【英文】](https://www.youtube.com/watch?v=V3JGZazdJwE&list=PLCxzy-hmQq9GorRHGMurhHZb1KRdWUiYk&index=3)
 - [2021-05-22 面向新一代构建工具优化代码【视频】【中文】](https://www.bilibili.com/video/BV1Jo4y117LA/)
 - [2021-02-27 Managing Complexity in Vue CLI【视频】【英文】](https://www.youtube.com/watch?v=Y-1y0JjflOU&list=PLCxzy-hmQq9Ev1wUhS49uBAPo-AwzkvfF&index=5)
