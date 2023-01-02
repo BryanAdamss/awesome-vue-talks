@@ -132,3 +132,6 @@ A collection of vue talks
 - [2021-01-30 7 Vue Patterns That You Should Be Using More Often【视频】【英文】](https://www.youtube.com/watch?v=muaBCsVE-NM)
 - [2020-11-07 Testing Vue 3 Apps: What's new in Vue Test Utils for Vue 3【视频】【英文】](https://www.youtube.com/watch?v=Tvnn93q6-so)
 - [2020-09-30 Testing Vue 3 apps with Vue Test Utils【视频】【英文】](https://www.youtube.com/watch?v=0lV4dVYOyBw&list=PLC2LZCNWKL9ahK1IoODqYxKu5aA9T5IOA)
+
+# Others
+- [2022-12-10 使用 Vue 构建 CLI 应用 - 蔡少辉 (webfansplz) 【视频】 【中文】](https://www.bilibili.com/video/BV1i84y1t76C/?vd_source=0d15b527e7c09ff5ded4410b5ebfe7f0)
